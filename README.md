@@ -1,0 +1,2 @@
+# Leads_Chrome_extension
+I built a tool for sales people called the Leads Tracker, What is so interesting about this Leads Tracker is that it is a Chrome Extension. It deploys to Chrome so you could use it out in the wild or send it off to a sales person who might need such a tool because it solves one of the  problems sales people have which is to collect or gather leads that they can reach out to.
